@@ -1,2 +1,2 @@
-# intro_mlops
+# Introduction to MLOps
 MLOps for noobs
