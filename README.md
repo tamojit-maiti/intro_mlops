@@ -12,4 +12,8 @@ This project is intended to get myself familiar with the various MLOps tools, an
     * Unit and Integration Testing
     * Pre-commit hooks and Makefile
     * CI/CD using GitHub Actions
+* Model Deployment
+    * Over web via Flask
+    * Batch scoring
+    * Streaming
 
